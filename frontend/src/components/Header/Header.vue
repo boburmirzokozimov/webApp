@@ -1,13 +1,9 @@
 <script setup>
 
 import Button from "@/components/Button/Button.vue";
+import {useTelegram} from "@/helpers/useTelegram";
 
-const tg = window.Telegram.WebApp
-
-
-const onClose = () => {
-  tg.close()
-}
+const {onClose, user} = useTelegram()
 </script>
 
 <template>
@@ -16,7 +12,7 @@ const onClose = () => {
       Close
     </Button>
     <span class="username">
-      {{ tg.initDataUnsafe?.user?.username }}
+      {{ user?.username }}
     </span>
   </div>
 </template>
