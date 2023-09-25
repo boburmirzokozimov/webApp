@@ -6,5 +6,5 @@
 
 body {
     background: var(--th-theme-bg-color);
-    background: var(--th-theme-text-color);
+    color: var(--th-theme-text-color);
 }

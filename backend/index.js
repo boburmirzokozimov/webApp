@@ -18,14 +18,14 @@ bot.on('message', async (msg) => {
     const text = msg.text;
 
     if (text === '/start') {
-        await bot.sendMessage(chatId, 'Received your message!');
+        await bot.sendMessage(chatId, 'Click Menu Button');
 
-        await bot.sendMessage(chatId, 'Click to start the app', {
-            reply_markup: {
-                inline_keyboard: [
-                    [{text: 'Start', web_app: {url: webAppUrl}}]
-                ]
-            }
-        })
+        // await bot.sendMessage(chatId, 'Click to start the app', {
+        //     reply_markup: {
+        //         inline_keyboard: [
+        //             [{text: 'Start', web_app: {url: webAppUrl}}]
+        //         ]
+        //     }
+        // })
     }
 });

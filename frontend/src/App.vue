@@ -15,7 +15,6 @@ const onClose = () => {
 </script>
 
 <template>
-  <button @click="onClose">Close</button>
   <RouterView/>
 </template>
 

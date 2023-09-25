@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4494761d-3c38-4f73-bc26-76c8506bfe3d" name="Changes" comment="First Commits">
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Button/Button.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/Header/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/assets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/assets/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +26,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="Vue Composition API Component" />
       </list>
     </option>
   </component>
@@ -73,6 +80,11 @@
     "settings.editor.selected.configurable": "actions.on.save",
     "ts.external.directory.path": "/snap/phpstorm/353/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +96,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695618849979</updated>
       <workItem from="1695618857097" duration="96000" />
-      <workItem from="1695618987507" duration="4222000" />
+      <workItem from="1695618987507" duration="5116000" />
     </task>
     <task id="LOCAL-00001" summary="First Commits">
       <option name="closed" value="true" />
@@ -110,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695623107140</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="First Commits">
+      <option name="closed" value="true" />
+      <created>1695623287127</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695623287127</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
