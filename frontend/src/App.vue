@@ -8,9 +8,6 @@ onMounted(() => {
   tg.ready()
 })
 
-const onClose = () => {
-  tg.close()
-}
 
 </script>
 
