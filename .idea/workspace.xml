@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4494761d-3c38-4f73-bc26-76c8506bfe3d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitIgnore" afterDir="false" />
-    </list>
+    <list default="true" id="4494761d-3c38-4f73-bc26-76c8506bfe3d" name="Changes" comment="First Commits" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,11 +80,24 @@
       <option name="presentableId" value="Default" />
       <updated>1695618849979</updated>
       <workItem from="1695618857097" duration="96000" />
-      <workItem from="1695618987507" duration="2388000" />
+      <workItem from="1695618987507" duration="2563000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commits">
+      <option name="closed" value="true" />
+      <created>1695621528398</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695621528398</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commits" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commits" />
   </component>
 </project>
