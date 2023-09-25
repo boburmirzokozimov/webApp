@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4494761d-3c38-4f73-bc26-76c8506bfe3d" name="Changes" comment="First Commits" />
+    <list default="true" id="4494761d-3c38-4f73-bc26-76c8506bfe3d" name="Changes" comment="First Commits">
+      <change afterPath="$PROJECT_DIR$/frontend/imporamp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,6 +57,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.laravel-idea.search-composer-json": "true",
@@ -80,7 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695618849979</updated>
       <workItem from="1695618857097" duration="96000" />
-      <workItem from="1695618987507" duration="2563000" />
+      <workItem from="1695618987507" duration="3955000" />
     </task>
     <task id="LOCAL-00001" summary="First Commits">
       <option name="closed" value="true" />
@@ -90,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695621528398</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commits">
+      <option name="closed" value="true" />
+      <created>1695621556772</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695621556772</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
